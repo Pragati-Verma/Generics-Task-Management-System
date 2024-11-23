@@ -1,0 +1,14 @@
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\bin\Debug\net8.0\GenericDemo.exe
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\bin\Debug\net8.0\GenericDemo.deps.json
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\bin\Debug\net8.0\GenericDemo.runtimeconfig.json
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\bin\Debug\net8.0\GenericDemo.dll
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\bin\Debug\net8.0\GenericDemo.pdb
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\GenericDemo.AssemblyInfoInputs.cache
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\GenericDemo.AssemblyInfo.cs
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\GenericDemo.csproj.CoreCompileInputs.cache
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\GenericDemo.dll
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\refint\GenericDemo.dll
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\GenericDemo.pdb
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\GenericDemo.genruntimeconfig.cache
+D:\Practice\Udemy\C# Complete Masterclass\GenericDemo\obj\Debug\net8.0\ref\GenericDemo.dll
